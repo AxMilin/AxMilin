@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ax_Milin</h1>
-<h3 align="center">I'm Student At Taweethapisek School.</h3>
+<h3 align="center">I'm Student At <a href="https://taweethapisek.ac.th/>Taweethapisek School.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axmilin&label=Profile%20views&color=0e75b6&style=flat" alt="axmilin" /> </p>
 
@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmilin&show_icons=true&locale=en&theme=dark" alt="axmilin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmilin&theme=dark" alt="axmilin" /></p>
+
+<a href="https://ax-milin.netlify.app/">Contacts</a>
