@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Lua, Java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Cotact me:</h3>
 <p align="left">
 <a href="https://ax-milin.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AxMilin/AxMilin/main/site/icon.png" alt="ax.milin" height="100" width="100" /></a>
 
