@@ -10,6 +10,14 @@
     background-color: #a6a6a6;
     background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #a6a6a6 25px ), repeating-linear-gradient( #282a4a55, #282a4a );
    }
+   .push-down:hover{
+        transition: all .5s ease;
+        transform: scale(1.035);
+    }
+    .push-down:not(:hover){
+        transition: all .5s ease;
+        transform: scale(1);
+    }
    </style></head>
    
    <body class="container">
@@ -20,10 +28,10 @@
                <h5 class="text-center kanit">Contacts</h5>
                <div class="text-center kanit">
                    <h1>
-                       <a href="https://instagram.com/ax.milin?igshid=OGQ5ZDc2ODk2ZA=="><i class="fa-brands fa-instagram"></i></a>
-                       <a href="https://www.facebook.com/ax.milin?mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
-                       <a href="https://github.com/AxMilin"><i class="fa-brands fa-github"></i></a>
-                       <a href="https://discord.gg/5aJJJV2Xnp"><i class="fa-brands fa-discord"></i></a>
+                       <a class="push-down" href="https://instagram.com/ax.milin?igshid=OGQ5ZDc2ODk2ZA=="><i class="fa-brands fa-instagram"></i></a>
+                       <a class="push-down" href="https://www.facebook.com/ax.milin?mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+                       <a class="push-down" href="https://github.com/AxMilin"><i class="fa-brands fa-github"></i></a>
+                       <a class="push-down" href="https://discord.gg/5aJJJV2Xnp"><i class="fa-brands fa-discord"></i></a>
                    </h1>
                </div>
            </center></div>
