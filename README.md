@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ax_Milin</h1>
-<h3 align="center">I'm Student At <a href="https://taweethapisek.ac.th/">Taweethapisek School.</a></h3>
+<h3 align="center">I'm a student at <a href="https://taweethapisek.ac.th/">Taweethapisek School.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axmilin&label=Profile%20views&color=0e75b6&style=flat" alt="axmilin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axmilin&theme=onedark" alt="axmilin" /></a> </p>
 
-- 🌱 I’m currently learning **Lua, Java**
+- 🌱 I’m currently learning **Java**
 
-<h3 align="left">Cotact me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://ax-milin.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/AxMilin/AxMilin/main/site/icon.png" alt="ax.milin" height="100" width="100" /></a>
 
