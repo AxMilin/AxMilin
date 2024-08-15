@@ -9,7 +9,26 @@
    body {
     background-color: #a6a6a6;
     background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #a6a6a6 25px ), repeating-linear-gradient( #282a4a55, #282a4a );
+    animation: backgroundChange 10s infinite;
    }
+@keyframes backgroundChange {
+    0% {
+        background-color: #a6a6a6;
+    }
+    25% {
+        background-color: #5b9bd5;
+    }
+    50% {
+        background-color: #1f4e79;
+    }
+    75% {
+        background-color: #2e75b6;
+    }
+    100% {
+        background-color: #a6a6a6;
+    }
+}
+    
    .push-down:hover{
         transition: all .5s ease;
         transform: scale(1.35);
@@ -18,6 +37,18 @@
         transition: all .5s ease;
         transform: scale(1);
     }
+
+       .cursor {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    mix-blend-mode: difference;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
    </style></head>
    
    <body class="container">
@@ -36,5 +67,6 @@
                </div>
            </center></div>
        </div>
-   
+       <div class="cursor"></div>
+       <script type="module" src="cursor.js"></script><script>
 </body></html>
