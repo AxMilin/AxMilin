@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axmilin&theme=onedark" alt="axmilin" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
