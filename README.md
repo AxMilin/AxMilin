@@ -15,4 +15,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axmilin&show_icons=true&locale=en&theme=dark" alt="axmilin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmilin&theme=dark" alt="axmilin" /></p>
- 
+
+<iframe
+  src="https://lavalink-list.appujet.site/embed/node/node1.axmilin.in.th"
+  width="300"
+  height="140"
+  frameborder="0"
+  style="border-radius: 8px; border: none; overflow: hidden;"
+></iframe>
+
+<iframe
+  src="https://lavalink-list.appujet.site/embed/node/node2.axmilin.in.th"
+  width="300"
+  height="140"
+  frameborder="0"
+  style="border-radius: 8px; border: none; overflow: hidden;"
+></iframe>
