@@ -20,4 +20,4 @@
 
 [![Felix Node2 Status](https://lavalink-api.appujet.site/api/widget/node2.axmilin.in.th.svg)](https://lavalink-list.appujet.site/nodes/node2.axmilin.in.th)
 
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/felixsmp.axmilin.in.th:60281/embed" width="728" height="90"></iframe>
+[View FelixSMP on NameMC](https://namemc.com/server/felixsmp.axmilin.in.th:60281)
