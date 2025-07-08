@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmilin&theme=dark" alt="axmilin" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1144466670119829537)](https://discord.com/users/1144466670119829537)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1144466670119829537?showDisplayName=true&idleMessage=Ruff%20Ruff%20%3A3)](https://discord.com/users/1144466670119829537)
