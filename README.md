@@ -16,6 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axmilin&theme=dark" alt="axmilin" /></p>
 
-[![Felix Node1 Status](https://lavalink-api.appujet.site/api/widget/node1.axmilin.in.th.svg)](https://lavalink-list.appujet.site/nodes/node1.axmilin.in.th)
-
-[![Felix Node2 Status](https://lavalink-api.appujet.site/api/widget/node2.axmilin.in.th.svg)](https://lavalink-list.appujet.site/nodes/node2.axmilin.in.th)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
